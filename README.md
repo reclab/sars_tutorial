@@ -1,7 +1,7 @@
 
-# WWW 18 Tutorial on Sequence-Aware Recommender Systems
+# WWW 19 - Tutorial on Sequence-Aware Recommender Systems
 
-This is the repository for the hands-on session of the Tutorial on Sequence-Aware Recommenders at WWW 2019 in Vancouver.
+This is the repository for the hands-on session of the Tutorial on Sequence-Aware Recommenders at WWW 2019 in San Francisco.
 
 ## Additional material about the tutorial
 
