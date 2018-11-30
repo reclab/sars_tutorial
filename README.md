@@ -1,11 +1,11 @@
 
-# RecSys 18 Tutorial on Sequence-Aware Recommenders
+# WWW 18 Tutorial on Sequence-Aware Recommender Systems
 
-This is the repository for the hands-on session of the Tutorial on Sequence-Aware Recommenders at ACM RecSys 2018 in Vancouver.
+This is the repository for the hands-on session of the Tutorial on Sequence-Aware Recommenders at WWW 2019 in Vancouver.
 
 ## Additional material about the tutorial
 
-All the additional material about the tutorial is hosted at [this page](https://sites.google.com/view/seq-recsys-tutorial/home).
+All the additional material about the tutorial is hosted at [this page](https://sites.google.com/view/seq-www-tutorial/home).
 
 ## Running the code
 
